@@ -1,0 +1,4 @@
+#our objective is to make a box on which when ever we hover the mouse to the left it should be red and wwhen i move the mouse pointer to the right then the box should becone black
+ first we will check the mouse has came or not
+ then chek center se left h ya right 
+ then calculate how much we are in the left and with that intensity add the color
